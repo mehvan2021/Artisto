@@ -28,15 +28,15 @@ Name of Project (Artisto)
    
 # Todo
 
-   1- Making Pages (Home, City user List, User Bio, BidInfo).
+   1- Making Pages (Home, PublisherList, PublisherBio, BidInfo).
    
-   2- Landing page show all new page from user city.
+   2- Landing page will show all new bids shared in my city.
    
-   3- User list page show all other user names from user city city.
+   3- PublisherList page will show all other user names in list from city.
    
    4- BidsInfo page will show full Lyrics and play Melody.
    
-   5- Publisherpage will show Artist Biography, Picture, How bid have benn done, and how bids have been shared.
+   5- PublisherBio page will show Artist Biography, Picture, How bids have benn shared, and how bids have been done and selled.
    
    
    
