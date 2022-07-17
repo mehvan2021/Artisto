@@ -13,7 +13,7 @@ Name of Project (Artisto)
 
 
 
-# Todo
+# What user can do
 
    1- Artist can register account and make him/her Biography page.
    
@@ -21,6 +21,22 @@ Name of Project (Artisto)
    
    3- Anyone can make Groups and invite other Artists to Group.
    
-   3- Anyone can report Copyrighted post, after 3 report account will be deleted.
+   4- Anyone can report Copyrighted post, after 3 report account will be deleted.
+   
+   5- Music Studio can make their Ad inside Cities pages and Groups.
+   
+   
+# Todo
+
+   1- Making Pages (Home, City user List, User Bio, BidInfo).
+   
+   2- Landing page show all new page from user city.
+   
+   3- User list page show all other user names from user city city.
+   
+   4- BidsInfo page will show full Lyrics and play Melody.
+   
+   5- Publisherpage will show Artist Biography, Picture, How bid have benn done, and how bids have been shared.
+   
    
    
