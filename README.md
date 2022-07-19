@@ -30,9 +30,9 @@ Name of Project (Artisto)
 
    1- Making Pages (Home, PublisherList, PublisherBio, BidInfo).
    
-   2- Landing page will show all new bids shared in my city.
+   2- Landing page will show all new bids shared by selected city Artists.
    
-   3- PublisherList page will show all other user names in list from city.
+   3- PublisherList page will show all other user names in list from selected city.
    
    4- BidsInfo page will show full Lyrics and play Melody.
    
