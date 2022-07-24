@@ -1,0 +1,15 @@
+Your Final Project information
+1- Name and Details
+2- Project initialized on github
+3- Readme file with description about the app
+4- List of features as todos
+5- FLutter project created
+Optional 6- few screen coded
+optional 7- show case your app in 5 min
+
+
+1- Name of Project (Artisto)
+   The purpose of Application is to gather artists from each city in a group for their city,
+   they can Publish their artistic contents for sale at bid such as Poetry, Melodies and Songs,	
+   also they can make other groups to publish content for a type of art.
+2-
