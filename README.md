@@ -5,18 +5,17 @@ Name of Project (Artisto)
    also they can make other groups to publish content for a type of art.
    
 # Application Logo
-![logo2](https://user-images.githubusercontent.com/83242410/179398720-601c3ddf-a5ee-4183-8210-948515c92b9d.jpg)
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/images/logo2.jpg" height="150px" width="150px" >
 
 
 # Screenshoot
-![screenshot-2022-07-17_14 45 17 489](https://user-images.githubusercontent.com/83242410/179398628-d90ac29b-f308-4945-8e89-757504eba854.png)
 
-<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(1).png" height="300px" width="140px" >
-<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(2).png" height="300px" width="140px" >
-<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(3).png" height="300px" width="140px" >
-<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(4).png" height="300px" width="140px" >
-<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(5).png" height="300px" width="140px" >
-<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(6).png" height="300px" width="140px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(1).png" height="620px" width="200px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(2).png" height="620px" width="200px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(3).png" height="620px" width="200px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(4).png" height="620px" width="200px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(5).png" height="620px" width="200px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(6).png" height="620px" width="200px" >
 
 # What user can do
 
