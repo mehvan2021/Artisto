@@ -11,7 +11,7 @@ Name of Project (Artisto)
 # Screenshoot
 ![screenshot-2022-07-17_14 45 17 489](https://user-images.githubusercontent.com/83242410/179398628-d90ac29b-f308-4945-8e89-757504eba854.png)
 
-<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(1).png" height="300px" width="110px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(1).png" height="300px" width="140px" >
 
 # What user can do
 
